@@ -4,10 +4,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ... Library Management System
-- 🌱 I’m currently learning ... GitHub
 <!--
-- 👯 I’m looking to collaborate on ... Python project, Linux projects
+- 👯 I’m looking to collaborate on ... Python project, 
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about ... Avid reader📕, dog lover 🐕‍🦺, PS 🎮 enthusiast and data 🖥️engineer
